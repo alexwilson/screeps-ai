@@ -1,0 +1,16 @@
+{
+  "name": "antoligy-screeps-aiy",
+  "version": "1.0.0-alpha.1",
+  "description": "An AI for Screeps",
+  "scripts": {
+    "deploy": "grunt screeps",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Wilson <a@ax.gy>",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-env": "^0.4.4",
+    "grunt-screeps": "^1.2.1"
+  }
+}
